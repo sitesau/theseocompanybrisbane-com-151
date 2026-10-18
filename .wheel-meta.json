@@ -1,0 +1,22 @@
+{
+  "wheel_id": 420,
+  "structure": "chain",
+  "slug": "theseocompanybrisbane-com-151",
+  "project": "seo-services-brisbane-common-mistakes-7ee66ff1bfa7aad83b03d1e35",
+  "parent_t1_ref": "theseocompanybrisbane.com-009",
+  "node_role": "buffer",
+  "money_target": "theseocompanybrisbane.com.au",
+  "primary_kw": "seo services brisbane common mistakes",
+  "intended_url": "https://aumedia.neocities.org/seo-services-brisbane-common-mistakes-7ee66ff1bfa7aad83b03d1e35/",
+  "tier": "T2",
+  "writeback_nonce": "61dd4afa20d2aa6e",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/theseocompanybrisbane.com-009/seo-services-brisbane.html",
+      "anchor": "the seo services brisbane overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
